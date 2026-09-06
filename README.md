@@ -26,7 +26,7 @@ Python, containerised, with a real CI pipeline. It drafts and queues application
 but will not send anything until I approve it from Slack, which is the whole point.
 
 **[QA framework programme](https://github.com/fayeemajidul/qa-framework-template)**
-builds one automation framework built per month, one reviewed commit per day, entirely
+builds one automation framework per month, one reviewed commit per day, entirely
 on GitHub Actions. The machinery is the interesting part. The agent that writes the
 daily work is forbidden from using git, and a guard script rejects anything that is
 not real engineering before it can become a commit. September is
