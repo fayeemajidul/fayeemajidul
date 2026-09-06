@@ -1,11 +1,7 @@
-## Fayeem Mooktadeer
+## Majidul Mooktadeer
 
-QA Automation Engineer. I build test frameworks, and I build them in public so
-the work can be checked rather than claimed.
+Stealth Start Up Developer and Professional QA Automation Engineer. I build test frameworks, and I build them in public.
 
-Every framework below runs its full suite against a live target site every night
-and publishes the report. The badges are live, so they tell you the current
-state, not the state on the day I wrote the README.
 
 ### Now building
 
