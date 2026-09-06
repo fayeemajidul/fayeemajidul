@@ -11,7 +11,7 @@ state, not the state on the day I wrote the README.
 
 | Month | Framework | Target | Nightly | Report |
 |---|---|---|---|---|
-| Sep 2026 | Playwright with TypeScript | automationexercise.com | _starting_ | _soon_ |
+| Sep 2026 | [Playwright with TypeScript](https://github.com/fayeemajidul/playwright-ts-automationexercise) | automationexercise.com | [![nightly](https://github.com/fayeemajidul/playwright-ts-automationexercise/actions/workflows/nightly.yml/badge.svg)](https://github.com/fayeemajidul/playwright-ts-automationexercise/actions/workflows/nightly.yml) | [latest](https://fayeemajidul.github.io/playwright-ts-automationexercise/latest/) |
 
 ### Shipped
 
