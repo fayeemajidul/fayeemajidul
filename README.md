@@ -21,7 +21,7 @@ Stealth Start Up Developer and Professional QA Automation Engineer. I build test
 | **Bear Macro** | Native macOS screen reading automation, reacting to a moving target in real time | Swift, ScreenCaptureKit |
 | **CandewitGPT** | Job application autopilot that sends nothing until I approve it in Slack | Python, Docker, Fly.io |
 | **WHOOP dashboard** | Puts WHOOP recovery and strain next to Apple Health. Open source | TypeScript, Node |
-| **Westchester auction screener** | New York foreclosure due diligence, built around lien survival rules | Node, JavaScript |
+| **Foreclosure auction screener** | Due diligence on distressed property auctions, built around lien survival rules | Node, JavaScript |
 | **SHProperty** | Short stay rental prototype | TypeScript, Playwright, Vitest |
 
 ### How I work
