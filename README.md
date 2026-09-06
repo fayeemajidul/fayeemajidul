@@ -37,4 +37,3 @@ vague commit messages.
 ### Also here
 
 - [Countries-GraphQL-Framework](https://github.com/fayeemajidul/Countries-GraphQL-Framework), a GraphQL API test suite with a shared request layer and a written test strategy
-- [Teams-App-Status](https://github.com/fayeemajidul/Teams-App-Status), scheduled Microsoft Teams status on macOS with no Graph API
