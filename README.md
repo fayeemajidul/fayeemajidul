@@ -23,13 +23,3 @@ Stealth Start Up Developer and Professional QA Automation Engineer. I build test
 | **WHOOP dashboard** | Puts WHOOP recovery and strain next to Apple Health. Open source | TypeScript, Node |
 | **Foreclosure auction screener** | Due diligence on distressed property auctions, built around lien survival rules | Node, JavaScript |
 | **SHProperty** | Short stay rental prototype | TypeScript, Playwright, Vitest |
-
-### How I work
-
-Page objects that never assert. An API layer for setup. Structured logs. Retries with a hard cap and a record, never as a way to hide a race. Typed config that fails fast.
-
-A skip is not a pass.
-
-### On the automation
-
-The daily commits in my QA repos are AI assisted and reviewed by me. The agent cannot use git, and a [guard script](https://github.com/fayeemajidul/qa-framework-template/blob/main/scripts/daily/change-guard.sh) rejects empty diffs, skipped tests and vague messages before anything lands.
